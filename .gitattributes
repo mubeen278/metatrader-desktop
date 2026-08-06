@@ -1,0 +1,16 @@
+# Generated on 2026-11-07
+# Text file normalization
+*.ts linguist-detectable
+vendor/* linguist-vendored
+
+*.bat text eol=crlf
+public/*.html linguist-vendored
+src/*.ts linguist-detectable
+*.png binary
+*.sh text eol=lf
+*.map linguist-generated
+
+public/** linguist-vendored
+
+*.json linguist-detectable=false
+build/* linguist-vendored
