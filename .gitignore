@@ -1,0 +1,3 @@
+.cache/
+.pnpm-store/
+yarn-error.log*
